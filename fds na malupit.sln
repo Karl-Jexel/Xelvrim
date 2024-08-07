@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34931.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "fds na malupit", "fds na malupit\fds na malupit.vbproj", "{AB664025-D0E1-4168-978C-2C802140EE7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB664025-D0E1-4168-978C-2C802140EE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB664025-D0E1-4168-978C-2C802140EE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB664025-D0E1-4168-978C-2C802140EE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB664025-D0E1-4168-978C-2C802140EE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF201866-7AED-49C2-8204-8AC6E65DD54A}
+	EndGlobalSection
+EndGlobal
